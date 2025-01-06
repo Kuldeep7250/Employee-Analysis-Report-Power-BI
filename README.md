@@ -9,7 +9,6 @@ The **Employee Analysis Report** is a comprehensive Power BI project designed to
 
 ### 1. **Data Cleaning and Preparation**
 - **Appended Sales Tables:** Combined sales data from 2020-2022 into a unified table using Power Query.  
-- **Data Type Adjustments:** Modified column data types for consistency and accuracy.  
 - **Employee Name Formatting:** Recreated the Employee Name column with proper capitalization.  
 - **Duplicate Removal:** Identified and removed duplicate values from the dataset.  
 - **Conditional Columns:** Created custom columns to categorize employees by experience levels.  
@@ -29,9 +28,6 @@ The **Employee Analysis Report** is a comprehensive Power BI project designed to
 - **Attendance Analysis:** Illustrated attendance trends by year and gender using stacked column charts.  
 - **Employee Details:** Displayed salary and department data for each employee in a tabular format.  
 - **Customization:** Added company branding with name and logo using text boxes.  
-
-### 4. **Publishing**
-- Shared the Employee Analysis Report via Power BI’s publishing feature to enable collaboration and easy access.  
 
 ---
 
@@ -57,5 +53,5 @@ This report highlights:
 
 ---
 
-
+Feel free to customize this description based on your preferences!
 
