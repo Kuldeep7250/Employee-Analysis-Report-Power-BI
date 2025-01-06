@@ -37,13 +37,6 @@ The **Employee Analysis Report** is a comprehensive Power BI project designed to
 
 ---
 
-## How to Use
-1. Clone this repository to your local machine.  
-2. Open the Power BI file included in the repository.  
-3. Ensure your dataset is connected and refresh the data.  
-4. Explore the dashboard and visuals to gain insights.  
-
----
 
 ## Key Insights
 This report highlights:  
