@@ -52,6 +52,3 @@ This report highlights:
 - Yearly trends in salary, employee turnover, and attendance.  
 
 ---
-
-Feel free to customize this description based on your preferences!
-
